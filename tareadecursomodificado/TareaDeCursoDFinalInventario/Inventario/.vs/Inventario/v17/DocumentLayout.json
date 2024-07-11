@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|c:\\users\\usuario\\desktop\\tareadecursomodificado\\tareadecursomodificado\\tareadecursodfinalinventario\\inventario\\inventario\\listaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\listaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\listadeproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\listadeproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{779802B2-7739-4BEE-BE44-7129CDE0270E}|Inventario\\Inventario.csproj|solutionrelative:inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form3.cs",
+              "RelativeDocumentMoniker": "Inventario\\Form3.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form3.cs",
+              "RelativeToolTip": "Inventario\\Form3.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:48:01.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\ListaVentas.cs",
+              "RelativeDocumentMoniker": "Inventario\\ListaVentas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\ListaVentas.cs",
+              "RelativeToolTip": "Inventario\\ListaVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:04:26.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form3.cs",
+              "RelativeDocumentMoniker": "Inventario\\Form3.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:32:03.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaDeProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\ListaDeProductos.cs",
+              "RelativeDocumentMoniker": "Inventario\\ListaDeProductos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\ListaDeProductos.cs",
+              "RelativeToolTip": "Inventario\\ListaDeProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:35:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form2.cs",
+              "RelativeDocumentMoniker": "Inventario\\Form2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form2.cs",
+              "RelativeToolTip": "Inventario\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:42:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form2.cs",
+              "RelativeDocumentMoniker": "Inventario\\Form2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:10:25.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form1.cs",
+              "RelativeDocumentMoniker": "Inventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form1.cs",
+              "RelativeToolTip": "Inventario\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:13:51.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form1.cs",
+              "RelativeDocumentMoniker": "Inventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\tareadecursomodificado\\tareadecursomodificado\\TareaDeCursoDFinalInventario\\Inventario\\Inventario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:09:33.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

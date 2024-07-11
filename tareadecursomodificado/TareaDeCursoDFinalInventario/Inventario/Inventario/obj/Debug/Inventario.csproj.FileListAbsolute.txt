@@ -1,0 +1,107 @@
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Usuario\Desktop\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\ProyectoProgramacion1\Inventario\Inventario\obj\Debug\Inventario.Form4.resources
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\bin\Debug\Inventario.exe.config
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\bin\Debug\Inventario.exe
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\bin\Debug\Inventario.pdb
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.exe
+D:\ProyectoProgramacion1Melany\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Usuario\Desktop\TareaDeCursoDFinalInventario\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\LENOVO\Desktop\TareaDeCursoDFinalInventario - copia\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\LENOVO\Desktop\tareadecursomejorado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\LENOVO\Desktop\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\melany Tellez\OneDrive\Escritorio\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form2.resources
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Form3.resources
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Usuario\Desktop\tareadecursomodificado\tareadecursomodificado\TareaDeCursoDFinalInventario\Inventario\Inventario\obj\Debug\Inventario.pdb
